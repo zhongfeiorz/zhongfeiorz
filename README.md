@@ -7,9 +7,9 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zhongfeiorz/zhongfeiorz/blob/main/profile-developer-contrib/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/zhongfeiorz/zhongfeiorz/blob/main/profile-developer-contrib/developer.svg" height="225px" />
+    <img src="https://github.com/zhongfeiorz/zhongfeiorz/blob/main/profile-developer-contrib/coding.gif" />
   </picture>
  
   <!-- for beauty 留个空行好看点 -->
@@ -27,9 +27,9 @@
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zhongfeiorz/zhongfeiorz/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/zhongfeiorz/zhongfeiorz/blob/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/zhongfeiorz/zhongfeiorz/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
 </div>
@@ -43,11 +43,11 @@
 - ⚡ Fun fact: Data analysis📊
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ### ⚡ Platforms
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 
 ### 🛠 Tech Stack
 
@@ -65,6 +65,9 @@
 ### 🌎 Contact me
 - blog: click [ZhongfeiorzBlog](https://zhongfeiorz.github.io/):memo:    
 - email:<a href="mailto:bestzhongfei@gmail.com">bestzhongfei@gmail.com</a>:e-mail:
+
+### 🌎 Visitor
+<img src="https://komarev.com/ghpvc/?username=zhongfeiorz&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 
 
 
