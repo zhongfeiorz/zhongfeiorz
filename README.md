@@ -37,10 +37,13 @@
 </div>
 
 ### Hi there 👋
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=zhongfeiorz&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhongfeiorz&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+![Zhongfeiorz's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongfeiorz&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhongfeiorz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhongfeiorz&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 🌎 Visitors
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
