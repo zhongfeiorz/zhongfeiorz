@@ -9,7 +9,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zhongfeiorz/zhongfeiorz/blob/main/profile-developer-contrib/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/zhongfeiorz/zhongfeiorz/blob/main/profile-developer-contrib/developer.svg" height="225px" />
-    <img src="https://github.com/zhongfeiorz/zhongfeiorz/blob/main/profile-developer-contrib/coding.gif" />
+    <img src="https://github.com/zhongfeiorz/zhongfeiorz/blob/main/profile-developer-contrib/coding.gif" /> 
   </picture>
  
   <!-- for beauty 留个空行好看点 -->
@@ -22,7 +22,7 @@
     <a href="https://blog.csdn.net/flyaaa123/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/zhong-fei-56-47/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=zhongfeiorz&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <!-- <img src="https://komarev.com/ghpvc/?username=zhongfeiorz&label=Views&color=0e75b6&style=flat" alt="访问量统计" /> -->
   </div>
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
