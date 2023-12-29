@@ -6,15 +6,12 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-
- <!-- <img src="./xxx.png" width = "300" height = "200" alt="图片名称" align=center /> -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
  
- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px />
-
- <img src="https://img-blog.csdnimg.cn/2020102116384135.png" width="100px">
- 
-
-
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
   
@@ -32,7 +29,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/zhongfeiorz/zhonfgeiorz/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
 </div>
