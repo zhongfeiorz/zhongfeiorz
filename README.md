@@ -23,7 +23,6 @@
     <a href="https://space.bilibili.com/59623914/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/flyaaa123/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/zhong-fei-56-47/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-    
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=zhongfeiorz&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
@@ -42,12 +41,11 @@
 ### I'm Fei Zhong
 - A Control Engineering Graduate Student. & Open Source enthusiast.
 - 🌱 Currently working in Chengdu, China.
-- 💬 Ask me about C/C++, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: Data Analysis📊
+- 💬 Ask me about C/C++, TypeScript and my projects on [bestzhongfei.gmail.com](mailto:bestzhongfei.gmail.com)
+- ⚡ Fun fact: vim linux📊
   
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-## ⚡ Platforms
+### ⚡ Platforms
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -65,19 +63,14 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 <img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zhongfeiorz&theme=cobalt2&show_icons=true&card_width=495px)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zhongfeiorz&show_icons=true&theme=tokyonight)  
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zhongfeiorz&theme=vue&show_icons=true&card_width=495px)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zhongfeiorz&show_icons=true&theme=tokyolight)  
 
-## 🌎 Contact me
+### 🌎 Contact me
 - blog: click [ZhongfeiorzBlog](https://zhongfeiorz.github.io/):memo:    
 - email:<a href="mailto:bestzhongfei@gmail.com">bestzhongfei@gmail.com</a>:e-mail:
 
-![Zhongfeiorz's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongfeiorz&show_icons=true&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhongfeiorz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhongfeiorz&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🌎 Visitors
+### 🌎 Visitors
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
