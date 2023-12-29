@@ -40,7 +40,7 @@
 - A Control Engineering Graduate Student. & Open Source enthusiast.
 - 🌱 Currently working in Chengdu, China.
 - 💬 Ask me about C/C++, Python and my projects on [bestzhongfei.gmail.com](mailto:bestzhongfei.gmail.com)
-- ⚡ Fun fact: Data analysis📊
+- ⭐️ Fun fact: Data analysis📊
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ### ⚡ Platforms
 
