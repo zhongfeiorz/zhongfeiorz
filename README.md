@@ -41,12 +41,10 @@
 ### I'm Fei Zhong
 - A Control Engineering Graduate Student. & Open Source enthusiast.
 - 🌱 Currently working in Chengdu, China.
-- 💬 Ask me about C/C++, TypeScript and my projects on [bestzhongfei.gmail.com](mailto:bestzhongfei.gmail.com)
-- ⚡ Fun fact: vim linux📊
-  
+- 💬 Ask me about C/C++, Python and my projects on [bestzhongfei.gmail.com](mailto:bestzhongfei.gmail.com)
+- ⚡ Fun fact: Data analysis📊
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ### ⚡ Platforms
-
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -70,7 +68,4 @@
 - blog: click [ZhongfeiorzBlog](https://zhongfeiorz.github.io/):memo:    
 - email:<a href="mailto:bestzhongfei@gmail.com">bestzhongfei@gmail.com</a>:e-mail:
 
-
-### 🌎 Visitors
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
